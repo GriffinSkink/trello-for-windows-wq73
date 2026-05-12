@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Trello for Windows script with smart Trello for Windows Script | team-assignment + voice-input. Featuring team-assignment and voice-input, it's the best choice
 
 
 
